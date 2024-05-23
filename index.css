@@ -21,6 +21,7 @@
     position: absolute;
     top: 1%;
     left: 24%;
+    display:flex;
     /* text-align: center; */
     /* font-family: monospace; */
 }
